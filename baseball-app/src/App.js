@@ -12,6 +12,7 @@ const [value, setValue] = useState({
 
   return (
     <div className="App">
+      <h1>Baseball App</h1>
       <Display 
         value={value} 
         />
